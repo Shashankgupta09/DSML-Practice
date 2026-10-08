@@ -140,6 +140,7 @@ New concepts, notebooks, experiments, and implementations will be added over tim
 B.Tech — Artificial Intelligence & Machine Learning
 
 GitHub: [@Shashankgupta09](https://github.com/Shashankgupta09)
+LinkedIn: [Shashank Gupta](https://www.linkedin.com/in/shashank-gupta03/)
 
 
 ---
